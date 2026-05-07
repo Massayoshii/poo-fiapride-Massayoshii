@@ -10,7 +10,7 @@ public class SistemaPrincipal {
         meuCelular.statusCelular();
         meuCelular.desligar();
 
-        System.out.println("---------------------------------------------100");
+        System.out.println("---------------------------------------------");
         Celular celularDoProfessor = new Celular("Samsung",75);
         celularDoProfessor.desligar();
         celularDoProfessor.ligar();
